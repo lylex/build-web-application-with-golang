@@ -29,7 +29,7 @@ Book License: [CC BY-SA 3.0 License](http://creativecommons.org/licenses/by-sa/3
 Code License: [BSD 3-Clause License](<https://github.com/astaxie/build-web-application-with-golang/blob/master/LICENSE.md>)
 
 # Catalog
-* 1.[Go环境配置](zh/01.0.md)
+* 1.[Go环境配置(Done)](zh/01.0.md)
  - 1.1. [Go安装](zh/01.1.md)
  - 1.2. [GOPATH 与工作空间](zh/01.2.md)
  - 1.3. [Go 命令](zh/01.3.md)
