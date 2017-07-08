@@ -29,12 +29,12 @@ Book License: [CC BY-SA 3.0 License](http://creativecommons.org/licenses/by-sa/3
 Code License: [BSD 3-Clause License](<https://github.com/astaxie/build-web-application-with-golang/blob/master/LICENSE.md>)
 
 # Catalog
-* 1.[Go环境配置(Done)](zh/01.0.md)
+* ~~1.[Go环境配置(Done)](zh/01.0.md)~~
  - ~~1.1. [Go安装](zh/01.1.md)~~
- - 1.2. [GOPATH 与工作空间](zh/01.2.md)
- - 1.3. [Go 命令](zh/01.3.md)
- - 1.4. [Go开发工具](zh/01.4.md)
- - 1.5. [小结](zh/01.5.md)
+ - ~~1.2. [GOPATH 与工作空间](zh/01.2.md)~~
+ - ~~1.3. [Go 命令](zh/01.3.md)~~
+ - ~~1.4. [Go开发工具](zh/01.4.md)~~
+ - ~~1.5. [小结](zh/01.5.md)~~
 * 2.[Go语言基础](zh/02.0.md)
  - 2.1. [你好，Go](zh/02.1.md)
  - 2.2. [Go基础](zh/02.2.md)
